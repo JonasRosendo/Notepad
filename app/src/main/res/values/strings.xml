@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="note_title">Note Title</string>
+    <string name="note">Note</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add_new_category">ADD NEW CATEGORY</string>
+    <string name="enter_a_category_name">Enter a category name</string>
+    <string name="enter_category">Enter category</string>
+    <string name="exit">Exit</string>
+    <string name="want_to_leave">Do you want to leave ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="category_saved">Category saved with success!</string>
+    <string name="fill_fields">Fill all the fields!</string>
+    <string name="note_saved">Note saved!</string>
+    <string name="category_download_failed">Category data download failed!</string>
+    <string name="notes_download_failed">Notes download failed!</string>
+    <string name="note_removed">Note removed with success!</string>
+    <string name="wanna_delete_note">Do you really wanna delete note:</string>
+</resources>

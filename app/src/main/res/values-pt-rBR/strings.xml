@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloco de notas</string>
+    <string name="save">SALVAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="add_new_category">ADICIONAR CATEGORIA</string>
+    <string name="enter_a_category_name">Digite o nome para uma categoria</string>
+    <string name="enter_category">Digite a categoria</string>
+    <string name="exit">Sair</string>
+    <string name="want_to_leave">Deseja sair ?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="category_saved">Categoria salva com sucesso!</string>
+    <string name="fill_fields">Preencha todos os campos</string>
+    <string name="note_saved">Nota salva!</string>
+    <string name="category_download_failed">Download das categorias falhou!</string>
+    <string name="notes_download_failed">Download das notas falhou!</string>
+    <string name="note_title">Título da nota</string>
+    <string name="note">Nota</string>
+    <string name="note_removed">Nota removida com sucesso!</string>
+</resources>
